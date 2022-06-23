@@ -52,6 +52,8 @@ int labeling (const Matrix<uint> &bin, Matrix<uint> &lbl, int i, int j, uint cou
 который будет записываться информация о параметрах шестеренок.
 
 Например: ./main 0001.bmp 1.bmp 0001_1.bmp info.txt
+  
+  
 Текстовый файл с результатами выглядит следующим образом:
  
 Gears count: 1

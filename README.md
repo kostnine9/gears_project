@@ -57,6 +57,7 @@ int labeling (const Matrix<uint> &bin, Matrix<uint> &lbl, int i, int j, uint cou
 Текстовый файл с результатами выглядит следующим образом:
  
 Gears count: 1
+  
 Gear #0
   
 X = 147

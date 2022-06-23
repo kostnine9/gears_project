@@ -61,7 +61,8 @@ r = 113
 РЕЗУЛЬТАТЫ:
 1. Вставка шестеренки на ось
   
-![Безымянный](https://user-images.githubusercontent.com/92250704/175317897-1740f056-940c-4694-b87d-debaf5a1d1d1.png)
+![Безымянный](https://user-images.githubusercontent.com/92250704/175318041-d4c402b0-8e68-4696-b74f-3e1ef60a5d5d.png)
+
 
 
   

@@ -58,9 +58,13 @@ int labeling (const Matrix<uint> &bin, Matrix<uint> &lbl, int i, int j, uint cou
  
 Gears count: 1
 Gear #0
+  
 X = 147
+  
 Y = 147
+  
 R = 146
+  
 r = 113  
 
 РЕЗУЛЬТАТЫ:
